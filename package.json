@@ -1,0 +1,32 @@
+{
+  "name": "valhalla-source-config",
+  "version": "1.0.0",
+  "description": "Valhalla Source Config Repo for Remix Demo App",
+  "main": "index.js",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "clean": "gatsby clean",
+    "serve": "gatsby serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulieScanlon/valhalla-source-config.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulieScanlon/valhalla-source-config/issues"
+  },
+  "homepage": "https://github.com/PaulieScanlon/valhalla-source-config#readme",
+  "dependencies": {
+    "gatsby": "^4.24.7",
+    "gatsby-plugin-image": "^2.24.0",
+    "gatsby-plugin-sharp": "^4.24.0",
+    "gatsby-source-contentful": "^7.22.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
